@@ -1,0 +1,42 @@
+Tooltip_CN = {
+
+	/* runFlat */
+
+	Tooltip_item_runFlatTire = "军用级别的轮胎,永远不会爆胎,但在磨损严重时会失去牵引力.",
+	Tooltip_item_oldrunFlatTire = "旧的 runFlat 轮胎,可以转换为新型号.",
+
+	/* damnCraft */
+
+	Tooltip_item_damnSteelRim = "用于轮胎制作的基本轮辋类型.",
+	Tooltip_item_damnTireRubber = "轮胎橡胶用于轮胎制作.轮胎橡胶的状况会影响制作轮胎的状况.",
+	Tooltip_item_damnTireMount = "轮胎橡胶支架在存储轮胎橡胶时节省空间.",
+	Tooltip_item_damnGlassPane = "玻璃窗格用于与手术刀一起制作车辆窗户.",
+	Tooltip_item_damnHandle = "车门制作所用的把手.",
+	Tooltip_item_damnHinge = "车门制作所用的铰链.",
+	Tooltip_item_damnRubberStrip = "橡胶条用于挡风玻璃和车门制作.",
+	Tooltip_item_damnSeatFabric = "座椅布料用于车座制作.",
+	Tooltip_item_damnSeatFoam = "座椅泡沫用于车座制作.",
+	Tooltip_item_damnSeatFrame = "座椅框架用于车座制作.",
+
+	Tooltip_item_damnSchematicsBox = "车辆零件制作图集合",
+	Tooltip_item_damnWindowSchematics = "车辆窗户制作图",
+	Tooltip_item_damnDoorSchematics = "车门制作图",
+	Tooltip_item_damnHoodSchematics = "车辆引擎盖制作图",
+	Tooltip_item_damnTrunkLidSchematics = "车辆后备箱盖制作图",
+	Tooltip_item_damnSeatSchematics = "车座制作图",
+	Tooltip_item_damnRimSchematics = "车轮制作图",
+	Tooltip_item_damnMufflerSchematics = "消音器制作图",
+	Tooltip_item_damnBumperSchematics = "车辆保险杠制作图",
+
+	Tooltip_item_damnTireRepairKit = "用于轮胎紧急修复的工具套件.",
+	Tooltip_item_damnTireRepairTools = "轮胎修复套件中的主要工具,需要橡胶溶液和修复条来修补轮胎.",
+	Tooltip_item_damnTireRepairSolution = "轮胎修复套件的三个组件之一,需要修复工具和修复条来修补轮胎.",
+	Tooltip_item_damnTireRepairStrips = "轮胎修复套件的三个组件之一,需要修复工具和橡胶溶液来修补轮胎.",
+
+	Tooltip_item_damnPlasticWeldingKit = "用于车辆塑料部件紧急修复的工具套件.",
+	Tooltip_item_damnPlasticWeldingGun = "塑料焊接套件中的主要工具,需要电池和焊接钉.",
+	Tooltip_item_damnPlasticWeldingStaples = "塑料焊接套件的两个组件之一,需要电池供电的焊接枪用于车辆塑料部件的修复.",
+
+	/* USMIL */
+
+}
